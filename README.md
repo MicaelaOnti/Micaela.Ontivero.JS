@@ -1,11 +1,12 @@
 # Micaela.Ontivero.JS
-Proyecto Final JS coderhouse 30405
+Proyecto Final JavaScript Coderhouse 30405
 
 
 PROYECTO
 
 #Nombre del proyecto
-Barro Shoes
+
+BARRO SHOES
 
 
 #Descripcion y Inspiracion.
