@@ -160,6 +160,19 @@ function subscribirse(){
  
 subscribirse()
 
+///////////////////////////////
+
+const timeOut = () => {
+    setTimeout(()=>{
+        Swal.fire({
+            imageUrl: './assets/extras/cassandra.jpg',
+            imageHeight: 180,
+            text: "¡El Casco Salva Vidas!"
+        })
+    }, 7000);
+}
+timeOut()
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
