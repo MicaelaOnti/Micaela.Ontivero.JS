@@ -2,7 +2,7 @@
 Proyecto Final JavaScript Coderhouse 30405
 
 
-PROYECTO
+PROYECTO:
 
 #Nombre del proyecto
 
