@@ -160,6 +160,19 @@ function subscribirse(){
  
 subscribirse()
 
+////////////////////////////
+
+const timeOut = () => {
+    setTimeout(()=>{
+        Swal.fire({
+            imageUrl: './assets/extras/cassandra.jpg',
+            imageHeight: 180,
+            text: "Proximamente ✿ Cassie "
+        })
+    }, 5000);
+}
+timeOut()
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
