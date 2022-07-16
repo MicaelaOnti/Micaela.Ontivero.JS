@@ -167,7 +167,7 @@ const timeOut = () => {
         Swal.fire({
             imageUrl: './assets/extras/cassandra.jpg',
             imageHeight: 180,
-            text: "¡El Casco Salva Vidas!"
+            text: "Proximamente ✿ Cassie "
         })
     }, 7000);
 }
